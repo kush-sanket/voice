@@ -5,8 +5,8 @@
    # Requirements
   * Go to Google API console [link](https://console.cloud.google.com/getting-started)
   * Enable API and Services (Note Need to create project first)
-  * Select Credentials --> Oauth client ID 
-  * configure concent Screen
+  * Select Credentials --> select create credentials --> Oauth client ID 
+  * configure consent Screen
   * Follow the steps there and go to Dashboard
   * Again Click to credentials and select Oauth client ID then select App type(Note :- If you are using any webservers then select as Web application. In this case we are accessing through Python so Select the Desktop app).
   * Add authorized redirects to  your localhost(Note: for personal use only)
